@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.126 (w)1999-2026 BSI
+[*] Thu Nov 12 10:57:15 2026
+[*]
+[dumpfile] "/home/vidyashree/RTL_Design_Synthesis_Workshop/rtl/or_gate.vcd"
+[dumpfile_mtime] "Thu Nov 12 10:50:26 2026"
+[dumpfile_size] 439
+[savefile] "/home/vidyashree/RTL_Design_Synthesis_Workshop/rtl/or_gate.gtkw"
+[timestart] 0
+[size] 1853 1001
+[pos] -27 -24
+*-13.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 278
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@28
+tb_or_gate.a
+tb_or_gate.b
+@29
+tb_or_gate.y
+[pattern_trace] 1
+[pattern_trace] 0

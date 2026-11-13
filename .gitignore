@@ -1,0 +1,21 @@
+# Simulation executables
+*_sim
+*.vvp
+*.out
+
+# Waveform data and GTKWave temporary files
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.vcd.gtkw
+
+# Temporary files
+*~
+*.swp
+*.bak
+
+# Python cache
+__pycache__/
+rtl/vsdflow/
+*.log

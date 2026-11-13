@@ -1,0 +1,12 @@
+digraph "nor_gate" {
+label="nor_gate";
+rankdir="LR";
+remincross=true;
+n1 [ shape=octagon, label="y", color="black", fontcolor="black"];
+n2 [ shape=octagon, label="b", color="black", fontcolor="black"];
+n3 [ shape=octagon, label="a", color="black", fontcolor="black"];
+c7 [ shape=record, label="{{<p4> A|<p5> B|<p6> Y}|_0_\nsky130_fd_sc_hd__nor2_1|{}}",  ];
+n1:e -> c7:p6:w [color="black", fontcolor="black", label=""];
+n2:e -> c7:p5:w [color="black", fontcolor="black", label=""];
+n3:e -> c7:p4:w [color="black", fontcolor="black", label=""];
+}
