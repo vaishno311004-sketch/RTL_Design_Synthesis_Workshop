@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.126 (w)1999-2026 BSI
+[*] Fri Nov 13 07:32:56 2026
+[*]
+[dumpfile] "/home/vidyashree/RTL_Design_Synthesis_Workshop/rtl/rca.vcd"
+[dumpfile_mtime] "Fri Nov 13 07:19:56 2026"
+[dumpfile_size] 1683
+[savefile] "/home/vidyashree/RTL_Design_Synthesis_Workshop/rtl/rca_waveform.png.gtkw"
+[timestart] 0
+[size] 1853 1001
+[pos] -27 -24
+*-14.000000 60000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 278
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@22
+tb_rca.num1[7:0]
+@23
+tb_rca.num2[7:0]
+@22
+tb_rca.sum_out[8:0]
+[pattern_trace] 1
+[pattern_trace] 0
